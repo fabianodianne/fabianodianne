@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Dianne, a passionate Software Developer on a journey of continuous learning and exploration. Welcome to my GitHub!
+
+[![Roadmap Progress](https://api.roadmap.sh/v1-badge/wide/657a8c075145316d25ff2a1d?variant=dark)](https://roadmap.sh)
+
+## About Me
+
+I love crafting elegant solutions to complex problems and am always excited to dive into new technologies. Currently, I'm focused on honing my skills.
+
+## Education
+
+- **BS in Computer Science**
+  - Ateneo de Naga University
+
+## What You'll Find Here
+
+In this corner of the coding universe, you'll discover my projects, experiments, and contributions. I believe in the power of collaboration, so feel free to explore, comment, and even contribute if you find something interesting!
+
+## Get in Touch
+
+I'm always open to connecting with fellow developers, sharing knowledge, and learning from each other. Don't hesitate to reach out:
+
+- [LinkedIn](https://www.linkedin.com/in/dianne-fabiano) 
+- [Portfolio Website](https://dianne-fabiano.netlify.app/)
+
+Let's code together and make the tech world a bit more awesome!
+
+Happy coding! 🚀
