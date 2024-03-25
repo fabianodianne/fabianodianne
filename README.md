@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 I'm Dianne, a passionate Software Developer on a journey of continuous learning and exploration. Welcome to my GitHub!
 
-[![Roadmap Progress](https://api.roadmap.sh/v1-badge/wide/657a8c075145316d25ff2a1d?variant=dark)](https://roadmap.sh)
-
 ## About Me
 
 I love crafting elegant solutions to complex problems and am always excited to dive into new technologies. Currently, I'm focused on honing my skills.
